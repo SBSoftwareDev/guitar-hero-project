@@ -36,12 +36,3 @@ Here are the basics: The guitar being played sends signals directly to the Ardui
 
 ## CONCLUSION
 I couldn’t have fulfilled this project without my awesome Computer Science teacher Mr. Beckler. He actively supported me during this project and made sure I had all the resources I needed. I had so much fun doing this project, and I learned so much. It took me almost the entirety of my senior year to finish the project, becoming what it is today. It currently rests at Benson High School.
-
-
-
-
-  After connecting the PlayStation2 guitar controller to the Arduino, the Arduino will send a constant stream of numbers indicating precisely which buttons are currently being pressed, through the COM port. A secondary program on the host PC will listen to that stream of numbers from the COM port, and use AutoHotKey to emulate keyboard/mouse events. This effectively allows the user to play the PC
-version of Guitar Hero III through an Arduino. However, that was not the main point of the project.
-
-This setup allows simultaneuous mechanical control of virtually anything. I took advantage of this and setup a row of colored floodlights
-to match the color scheme of the game. Behold the birth of the unnamed Guitar Hero Project, a playable light board.
