@@ -1,7 +1,11 @@
 # guitar-hero-project
 
 ## Intro
-  I don’t have a fancy name for this project, and I likely never will. I got the idea for this project at the end of my junior year in Computer Science at Benson High School. I started work on the project at the beginning of my senior year. Initially, my proposal for the project was for a 5 x 11 board of lights (Figure 1), colored the same way a Guitar Hero 3 fretboard would be. <img align="right" src="images/GuitarLights.png" height="300">The user would be able to only use the board of lights, and they could play the game by viewing it. The lights would be controlled by a matrix of Silicon Controlled Rectifiers through an Arduino microcontroller, along with a Guitar Hero guitar. The final product was definitely different than imagined, however I love it all the same. It turned into something beautiful.
+  I don’t have a fancy name for this project, and I likely never will. I got the idea for this project at the end of my junior year in Computer Science at Benson High School. I started work on the project at the beginning of my senior year. Initially, my proposal for the project was for a 5 x 11 board of lights (Figure 1), colored the same way a Guitar Hero 3 fretboard would be. 
+<figure>
+    <img alt="missing" align="right" src="images/GuitarLights.png" height="300">
+    <figcaption>Figure 1</figcaption>
+</figure>The user would be able to only use the board of lights, and they could play the game by viewing it. The lights would be controlled by a matrix of Silicon Controlled Rectifiers through an Arduino microcontroller, along with a Guitar Hero guitar. The final product was definitely different than imagined, however I love it all the same. It turned into something beautiful.
 
 
 
