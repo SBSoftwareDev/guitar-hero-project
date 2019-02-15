@@ -28,7 +28,7 @@ I had the Arduino constantly spitting out what state the controller is in, as in
 
 I was (and still am) amazed at the end result. A light board that shines on corresponding button presses, that makes playing along with Guitar Hero a million times more awesome. I surprisingly had few issues with latency.
 
-[![missing](https://img.youtube.com/vi/oR7VQzklVX0/0.jpg)](https://www.youtube.com/watch?v=oR7VQzklVX0)
+[<img src="/images/ghp-thumb.png" align="center">](https://www.youtube.com/watch?v=oR7VQzklVX0)
 
 ## TECHNICAL SUMMARY
 
