@@ -3,7 +3,7 @@
 ## Intro
   I don’t have a fancy name for this project, and I likely never will. I got the idea for this project at the end of my junior year in Computer Science at Benson High School. I started work on the project at the beginning of my senior year. Initially, my proposal for the project was for a 5 x 11 board of lights, colored the same way a Guitar Hero 3 fretboard would be. 
 <figure>
-    <img alt="missing" align="right" src="images/GuitarLights.png" height="300">
+    <img alt="missing" align="right" src="images/GuitarLights.png" height="300">{:target="_blank"}
 </figure>The user would be able to only use the board of lights, and they could play the game by viewing it. The lights would be controlled by a matrix of Silicon Controlled Rectifiers through an Arduino microcontroller, along with a Guitar Hero guitar. The final product was definitely different than imagined, however I love it all the same. It turned into something beautiful.
 
 
@@ -28,7 +28,7 @@ I had the Arduino constantly spitting out what state the controller is in, as in
 
 I was (and still am) amazed at the end result. A light board that shines on corresponding button presses, that makes playing along with Guitar Hero a million times more awesome. I surprisingly had few issues with latency.
 
-[<img src="/images/ghp-thumb.png" align="center">](https://www.youtube.com/watch?v=oR7VQzklVX0)
+[<img src="/images/ghp-thumb.png" align="center">](https://www.youtube.com/watch?v=oR7VQzklVX0){:target="_blank"}
 
 ## TECHNICAL SUMMARY
 
