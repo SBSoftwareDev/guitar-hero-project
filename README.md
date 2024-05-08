@@ -1,5 +1,8 @@
 # guitar-hero-project
 
+## Update 2024
+I admit this project was developed fairly early on in my career, and several aspects of it are juvenile in retrospect. For instance, poor version control, and ABSURD amounts of 'if/else' statements, among other things. For the time being, details of this project are kept with a historical sense of growth and maturity. All of the equipment for this project was donated to Benson Polytechnic High School, so I don't have reason to update or maintain this project. 
+
 ## Intro
   I got the idea for this project at the end of my junior year in Computer Science at Benson High School. I started work on the project at the beginning of my senior year. Initially, my proposal for the project was for a 5 x 11 board of lights, colored the same way a Guitar Hero 3 fretboard would be. 
 <figure>
